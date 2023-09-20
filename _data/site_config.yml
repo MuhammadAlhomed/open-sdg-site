@@ -221,7 +221,7 @@ progressive_web_app:
 proxy_indicators:
   label: ''
   description: ''
-remote_data_prefix: 'https://muhammadalhomed.github.io/open-sdg-data/'
+remote_data_prefix: 'https://github.com/MuhammadAlhomed/open-sdg-data'
 reporting_status:
   title: status.reporting_status
   description: status.description
