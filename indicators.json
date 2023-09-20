@@ -38,6 +38,14 @@
           "status": "notstarted"
         },
         {
+          "id": "1-3-1-a",
+          "title": "Proportion of wetland that is degraded over total wetland area",
+          "description": "",
+          "keywords": "",
+          "href": "/open-sdg-site/1-3-1-a/",
+          "status": "complete"
+        },
+        {
           "id": "1-4-1",
           "title": "Proportion of population living in households with access to basic services",
           "description": "",
